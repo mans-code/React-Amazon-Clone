@@ -1,7 +1,8 @@
 AMAZON clone with React and firebase servless functions.
 
 ## Live Version On
-Oprn [https://amozan-clone-e340e.web.app](Amazon-Clone) to view Live Version
+
+Open[Amazon-Clone](https://amozan-clone-e340e.web.app) to view Live Version
 
 ## Available Scripts
 
