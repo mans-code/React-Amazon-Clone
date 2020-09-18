@@ -1,5 +1,8 @@
 AMAZON clone with React and firebase servless functions.
 
+## Live Version On
+Oprn [https://amozan-clone-e340e.web.app](Amazon clone)
+
 ## Available Scripts
 
 In the project directory, you can run:
